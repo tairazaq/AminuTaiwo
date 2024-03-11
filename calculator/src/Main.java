@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        calc(8,6);
+        calc(10,16);
     }
     public static void calc(int firstNumber, int secondNumber){
 
