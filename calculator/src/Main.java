@@ -12,4 +12,7 @@ public class Main {
         System.out.print("Answer: " +Answer);
         //print anwer
     }
+
+    //today is the day
+    String  name = "taye";
 }
