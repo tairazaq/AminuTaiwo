@@ -1,7 +1,7 @@
-Name = Kenny Universal
-Env  = local
-build version = 9.0
-Name = Taiwo
-Env  = qa
-build version = 8.0
+Name = Elix
+Env  = ~
+build version = 12.0
+Name = Taye
+Env  = ~
+build version = 13.0
 
