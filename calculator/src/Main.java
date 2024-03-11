@@ -13,4 +13,7 @@ public class Main extends sub {
         System.out.print("Answer: " +Answer);
         //print anwer
     }
+
+    //today is the day
+    String  name = "taye";
 }
