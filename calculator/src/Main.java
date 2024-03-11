@@ -3,10 +3,10 @@
 public class Main extends sub {
     public static void main(String[] args) {
 
-        calc(10,16);
+        calculator(10,16);
         subtract(2,3);
     }
-    public static void calc(int firstNumber, int secondNumber){
+    public static void calculator(int firstNumber, int secondNumber){
 
         int Answer = firstNumber + secondNumber;
 
