@@ -14,4 +14,7 @@ public class Main extends sub {
         //yes bro
         //no  bro
     }
+
+    //today is the day
+    String  name = "taye";
 }
