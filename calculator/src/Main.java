@@ -11,7 +11,7 @@ public class Main extends sub {
         int Answer = firstNumber + secondNumber;
 
         System.out.print("Answer: " +Answer);
-        //print anwer
+        //yes bro
     }
 
     //today is the day
