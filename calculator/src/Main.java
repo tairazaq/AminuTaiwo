@@ -6,6 +6,7 @@ public class Main extends choose {
       //  calculator(10,16);
         subtract(2,3);
         addition(3,3);
+        multiply(3,3);
     }
 //    public static void calculator(int firstNumber, int secondNumber){
 //
