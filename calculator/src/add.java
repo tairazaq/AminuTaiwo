@@ -1,6 +1,6 @@
 public class add {
 
-    public static void addition(int num1, int num2){
+    public static void additions(int num1, int num2){
 
         int ans = (num1 + num2);
 
