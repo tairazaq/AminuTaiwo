@@ -11,6 +11,5 @@ public class Main extends add {
         int Answer = firstNumber + secondNumber;
 
         System.out.println("Answer: " +Answer);
-        //yes bro
     }
 }
