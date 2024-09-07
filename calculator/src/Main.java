@@ -3,9 +3,9 @@
 public class Main extends add {
     public static void main(String[] args) {
 
-        calculator(10, 16);
-        additions(2, 3);
-        subtraction(2, 6);
+        calculator(10,16);
+        additions(2,3);
+        multi(3,6);
     }
         public static void calculator ( int firstNumber, int secondNumber){
 
