@@ -7,10 +7,10 @@ public class Main extends add {
         additions(2,3);
         multi(3,6);
     }
-    public static void calculator(int firstNumber, int secondNumber){
+        public static void calculator ( int firstNumber, int secondNumber){
 
-        int Answer = firstNumber + secondNumber;
+            int Answer = firstNumber + secondNumber;
 
-        System.out.println("Answer: " +Answer);
+            System.out.println("Answer: " + Answer);
+        }
     }
-}
