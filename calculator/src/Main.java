@@ -5,6 +5,7 @@ public class Main extends add {
 
         calculator(10,16);
         additions(2,3);
+        multi(3,6);
     }
     public static void calculator(int firstNumber, int secondNumber){
 
