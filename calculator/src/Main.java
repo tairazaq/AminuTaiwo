@@ -3,13 +3,14 @@
 public class Main extends add {
     public static void main(String[] args) {
 
-        calculator(10,16);
-        additions(2,3);
+        calculator(10, 16);
+        additions(2, 3);
+        subtraction(2, 6);
     }
-    public static void calculator(int firstNumber, int secondNumber){
+        public static void calculator ( int firstNumber, int secondNumber){
 
-        int Answer = firstNumber + secondNumber;
+            int Answer = firstNumber + secondNumber;
 
-        System.out.println("Answer: " +Answer);
+            System.out.println("Answer: " + Answer);
+        }
     }
-}
