@@ -1,6 +1,0 @@
-Name = Taiwo
-Env  = prod
-build version = 8.0
-
-
-new detach rota
