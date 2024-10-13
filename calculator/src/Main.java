@@ -22,6 +22,4 @@ public class Main extends choose {
 //        System.out.print("Answer: " +Answer);
 //    }
 
-
-
 }
